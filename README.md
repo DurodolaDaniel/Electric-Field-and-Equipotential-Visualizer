@@ -36,9 +36,11 @@ Generated figures and numerical data are saved to the `outputs/` directory.
 **Author:** Durodola Daniel
 
 ## Simulations
-<img width="1200" height="603" alt="field_validation" src="https://github.com/user-attachments/assets/3940cf65-fe4d-4f92-8792-575c886dee14" />
+<img width="991" height="603" alt="WhatsApp Image 2026-09-13 at 14 20 31" src="https://github.com/user-attachments/assets/f2e3bca3-c084-435c-bb23-dcefd99bc4d0" />
 
-<img width="1200" height="614" alt="field_orthogonality" src="https://github.com/user-attachments/assets/88d429ac-c05b-4365-8966-9465b8ef0083" />
 
-<img width="1282" height="577" alt="field_equipotential" src="https://github.com/user-attachments/assets/0ee3228d-24a5-4d35-836f-da613d254f77" />
+<img width="991" height="614" alt="WhatsApp Image 2026-09-13 at 14 20 31 (1)" src="https://github.com/user-attachments/assets/dedbda79-08d9-4366-b5fe-a22a424ef418" />
+
+
+<img width="1282" height="577" alt="field_equipotential" src="https://github.com/user-attachments/assets/0564567e-b507-4644-ae0f-27548fbf47de" />
 
