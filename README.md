@@ -36,9 +36,9 @@ Generated figures and numerical data are saved to the `outputs/` directory.
 **Author:** Durodola Daniel
 
 ## Simulations
-<img width="1282" height="603" alt="field_validation" src="https://github.com/user-attachments/assets/3940cf65-fe4d-4f92-8792-575c886dee14" />
+<img width="1200" height="603" alt="field_validation" src="https://github.com/user-attachments/assets/3940cf65-fe4d-4f92-8792-575c886dee14" />
 
-<img width="1282" height="614" alt="field_orthogonality" src="https://github.com/user-attachments/assets/88d429ac-c05b-4365-8966-9465b8ef0083" />
+<img width="1200" height="614" alt="field_orthogonality" src="https://github.com/user-attachments/assets/88d429ac-c05b-4365-8966-9465b8ef0083" />
 
 <img width="1282" height="577" alt="field_equipotential" src="https://github.com/user-attachments/assets/0ee3228d-24a5-4d35-836f-da613d254f77" />
 
